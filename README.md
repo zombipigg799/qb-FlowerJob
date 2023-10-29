@@ -1,9 +1,7 @@
 # qb-FlowerJob
 Script
-
+Credit to https://github.com/slvidu 
 Insert into @qb-core - Shared.lua
-
------------flowerjob-----------
 
 	["flower"] 		 	 	 		 = {["name"] = "flower", 					["label"] = "Rose Flower", 					["weight"] = 25, 		["type"] = "item", 		["image"] = "flower.png", 						["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "A Rose Flower."},
 	["flower_paper"] 		 	 	 = {["name"] = "flower_paper", 				["label"] = "Flower Paper", 				["weight"] = 10, 		["type"] = "item", 		["image"] = "flower_paper.png", 				["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "A Flower Paper."},
